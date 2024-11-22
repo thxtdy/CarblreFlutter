@@ -66,6 +66,6 @@ Flutter, OpenAI 를 사용한 사이트로 유저 모두가 판사가 되어, �
 <img width="411" alt="FlutterPostList" src="https://github.com/user-attachments/assets/002db284-fe0b-464d-a33d-5ed48be87317">
 
 <h5>변호사 리스트</h5>
-<img width="410" alt="FlutterLawyerList" src="https://github.com/user-attachments/assets/8e9145a8-6bd4-4ff3-b011-d8e909520580">
+<a>초상권 침해 문제로 올릴 수 없음을 알려드립니다.</a>
 
 
